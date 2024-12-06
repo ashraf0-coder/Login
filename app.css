@@ -89,9 +89,11 @@ body{
     text-decoration: none;
 }
 .login-button{
-    margin-top: 30px;
+    margin-top: 20px;
     width: 100%;
-    padding: 8px;
+    padding: 6px;
+    font-size: 17px;
+    font-weight: normal;
     background-color: rgb(8, 170, 175);
     border: none;
     border-radius: 99px;
@@ -99,9 +101,14 @@ body{
     cursor: pointer;
 }
 .dont-have-an-account{
+    text-align: center;
     position: relative;
-    top: 10px;
-    right: 20px;
+    margin-top: 8px;
     font-size: 12px;
     font-weight: normal;
+}
+.dont-have-an-account a{
+    color: white;
+    margin-left: 5px;
+    text-decoration: none;
 }
