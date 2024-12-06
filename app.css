@@ -100,6 +100,9 @@ body{
     color: white;
     cursor: pointer;
 }
+.login-button:hover{
+    background-color: rgb(10, 158, 163); 
+}
 .dont-have-an-account{
     text-align: center;
     position: relative;
