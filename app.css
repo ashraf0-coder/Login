@@ -84,7 +84,16 @@ body{
 }
 .remember-forgot-box a{
     color: white;
+    font-size: 16px;
     font-weight: normal;
     text-decoration: none;
-    
+}
+.login-button{
+    margin-top: 30px;
+    width: 100%;
+    padding: 8px;
+    background-color: rgb(8, 170, 175);
+    border: none;
+    border-radius: 99px;
+    color: white;
 }
